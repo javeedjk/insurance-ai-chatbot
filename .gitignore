@@ -1,0 +1,9 @@
+# Never upload these to GitHub
+.env
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+app/data/
+*.faiss
+*.pkl
