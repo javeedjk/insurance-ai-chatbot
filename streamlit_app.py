@@ -27,7 +27,7 @@ st.divider()
 
 # ── API URL ──────────────────────────────────────────────────────
 # When running locally, FastAPI runs on port 8000
-API_URL = "http://localhost:8000"
+API_URL = "https://insurance-ai-chatbot.onrender.com/"
 
 # ── Upload Section ───────────────────────────────────────────────
 st.subheader("📄 Step 1: Upload Your Policy Document")
