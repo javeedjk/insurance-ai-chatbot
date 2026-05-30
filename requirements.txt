@@ -1,8 +1,8 @@
-langchain==0.2.16
-langchain-openai==0.1.23
-langchain-community==0.2.16
-openai==1.40.0
-faiss-cpu==1.8.0
+langchain==0.2.17
+langchain-openai==0.1.25
+langchain-community==0.2.19
+openai==1.55.3
+faiss-cpu==1.12.0
 pymupdf==1.24.9
 streamlit==1.37.1
 fastapi==0.112.0
